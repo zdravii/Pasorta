@@ -1,0 +1,104 @@
+[
+    {
+        "id" : 1,
+        "ime" : "Bigl",
+        "slika" : "/assets/bigl.webp",
+        "opis" : "Ovi čvrsti i smeli mali psi imaju ljubazne izraze lica, kompaktni su i sportske građe. Imaju kratke dlake koje su guste i otporne na vremenske prilike i ima ih u nizu boja i šara (pogledajte standard rase za detalje). Njihova visina je 33–40 cm, a težina je oko 10–11 kg.",
+        "cinjenice" : {
+            "zivotniVek" : "12-15 godina",
+            "tezina" : "10-15 kg",
+            "visina" : "33-40cm",
+            "boje" : "Trobojna (crna, žuta i bela)",
+            "velicina" : "Srednje"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/bigl1.webp",
+            "slika2" : "/assets/bigl2.webp"
+        }
+    },
+    {
+        "id" : 2,
+        "ime" : "Bokser",
+        "slika" : "/assets/bokser.webp",
+        "opis" : "Pas bokser je srednje veličine, veoma mišićav, čvrst i dubokih grudi. Ima kratku njušku i blago podignutu bradu. Boja kratke dlake može biti u smeđoj i tigrastoj boji, obično sa nekim belim oznakama; mogu biti i potpuno bele boje. Prosečna visina odraslih mužjaka je 57–63 cm, a težina 30–32 kg. Odrasle ženke su idealne visine 53–59 cm i težine oko 25–27 kg.",
+        "cinjenice" : {
+            "zivotniVek" : "10-12 godina",
+            "tezina" : "25-32 kg",
+            "visina" : "53-63cm",
+            "boje" : "Boja kratke dlake dolazi u smeđoj i tigrastoj boji, obično sa nekim belim oznakama",
+            "velicina" : "Srednje"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/bokser1.webp",
+            "slika2" : "/assets/bokser2.webp"
+        }
+    },
+    {
+        "id" : 3,
+        "ime" : "Bul terijer",
+        "slika" : "/assets/bulterijer.webp",
+        "opis" : "Bul terijer je snažno građen, mišićav pas dubokih grudi. Ima dugu, snažnu glavu u obliku jajeta sa rimskim nosom. Najčešća boja ove rase je bela, često sa obojenim oznakama na glavi ili ponekad na leđima. Takođe mogu biti crni, tigrasti, crveni, smeđi ili trobojni. Odrasli psi su oko 45 cm visoki i 33 kg teški.",
+        "cinjenice" : {
+            "zivotniVek" : "10-12 godina",
+            "tezina" : "27-34 kg",
+            "visina" : "40-48cm",
+            "boje" : "Najčešća boja ove rase je bela, često sa obojenim oznakama na glavi ili ponekad na leđima",
+            "velicina" : "Srednje"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/bulterijer1.webp",
+            "slika2" : "/assets/bulterijer2.webp"
+        }
+    },
+    {
+        "id" : 4,
+        "ime" : "Cau cau",
+        "slika" : "/assets/caucau.webp",
+        "opis" : "Dugodlaki čau čau je nizak, kompaktan, četvrtasto građen pas. Rep mu je uvijen preko leđa. Unutrašnjost usta i jezik su plavo/crne boje. Postoje dve vrste krzna, dugodlaka i glatka, i mogu biti raznih boja (crna, crvena, plava, smeđa, krem ili bela). Odrasli mužjaci imaju 48–56 cm i težinu oko 26–32 kg. Odrasle ženke imaju 46–51 cm i teže 20–25 kg.",
+        "cinjenice" : {
+            "zivotniVek" : "12 – 15 godina",
+            "tezina" : "18-31.5 kg",
+            "visina" : "46-56cm",
+            "boje" : "Red; crn; krem; plave ili cimetove",
+            "velicina" : "Veliki"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/caucau1.webp",
+            "slika2" : "/assets/caucau2.webp"
+        }
+    },
+    {
+        "id" : 5,
+        "ime" : "Doberman",
+        "slika" : "/assets/doberman.webp",
+        "opis" : "Ovo je umereno velika, moćna, ali elegantna životinja. Dlaka mu je glatka, kratka i može biti braon, crne, plave ili smeđe (takođe poznate kao Isabella) boje sa oznakama u boji rđe. Svoje telo nose ponosno i svaki pas ove rase se može uporediti sa punokrvnim konjem. Odrasli mužjaci imaju oko 69 cm, a odrasle ženke 65 cm. Odrasli pas teži oko 32–45 kg.",
+        "cinjenice" : {
+            "zivotniVek" : "10 – 13 godina",
+            "tezina" : "32-45 kg",
+            "visina" : "Odrasli mužjaci imaju oko 69 cm, a odrasle ženke 65 cm",
+            "boje" : "Smeđa, crna, plava ili žućkasta (poznata i kao Izabela) sa tragovima rđe",
+            "velicina" : "Veliki"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/doberman1.webp",
+            "slika2" : "/assets/doberman2.webp"
+        }
+    },
+    {
+        "id" : 6,
+        "ime" : "Lejklanderski terijer",
+        "slika" : "/assets/lejklandskiterijer.webp",
+        "opis" : "Pametan, radni pas, lejklandski terijer ima gustu, grubu dlaku, koja može biti u crno-žutosmeđoj, plavoj i žutosmeđoj, crvenoj, pšeničnoj, crveno sedoj boji, braon, plavoj ili crnoj. Kompaktan je i visok 37 cm ili manje, sa potpuno odraslim mužjacima težine 8 kg, a ženkama 7 kg.",
+        "cinjenice" : {
+            "zivotniVek" : "12 – 16 godina",
+            "tezina" : "7 - 8 kg",
+            "visina" : "34 - 48",
+            "boje" : "Crno-smeđa, plava i žuta, crvena, pšenična, crvena sivkasta, jetra, plava ili crna",
+            "velicina" : "Srednje"
+        },
+        "dodatneSlike" : {
+            "slika1" : "/assets/lejklandskiterijer1.webp",
+            "slika2" : "/assets/lejklandskiterijer2.webp"
+        }
+    }
+]
